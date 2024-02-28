@@ -1,6 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Hwayoung's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=200)
-
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Hwayoung's%20GitHub%20😜&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=50&height=250&align=center)  
+    <div align="center">
 ### Hi there 👋
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dotoritoring&theme=default)
 <br>
@@ -8,7 +7,7 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=khylove0503)](https://solved.ac/khylove0503)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=khylove0503&theme=warm)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dotoritoring)](https://github.com/anuraghazra/github-readme-stats)
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dotoritoring)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 ## 💻 DEV's log 💻
 
@@ -50,6 +49,7 @@
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
 </div><br>
+</div>
 </div>
 
 <!--
